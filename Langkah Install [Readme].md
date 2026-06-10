@@ -1,5 +1,3 @@
-# Drive-to-Degree
-[via Google Drive] https://drive.google.com/drive/folders/1FWKlQuirsdtMiU5tgBYrenxR2WqXgXwL?usp=drive_link
 # 🎓 Drive to Degree: Open-World Campus Life Simulator
 
 ![Unity](https://img.shields.io/badge/Made_with-Unity_6-black?style=for-the-badge&logo=unity)
@@ -9,7 +7,7 @@
 *Lebih dari sekadar kuliah. Rasakan simulasi kehidupan kampus open-world dengan kebebasan tanpa batas!*
 
 <p align="center">
-  <img src="[MASUKKAN_LINK_URL_GAMBAR_POSTER_DI_SINI]" alt="Poster Drive to Degree" width="800">
+  <img src="https://drive.google.com/uc?export=view&id=1xfv7BKnIoRK9GEqKR_hwG1u_HqHPvudb" alt="Poster Drive to Degree" width="800">
 </p>
 
 ## 🎮 Tentang Game Ini
@@ -25,11 +23,11 @@
 
 ## 🎬 Cuplikan Gameplay & Trailer
 
-*Klik gambar di bawah ini untuk menonton video selengkapnya!*
+*Klik gambar di bawah ini untuk menonton video selengkapnya di YouTube!*
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=h8n8kq2ji9g">
-    <img src="[MASUKKAN_LINK_THUMBNAIL_TRAILER_ATAU_GIF_DI_SINI]" alt="Trailer Drive to Degree" width="400">
+  <a href="https://www.youtube.com/watch?v=h8n8kq2ji9g" target="_blank">
+    <img src="https://img.youtube.com/vi/h8n8kq2ji9g/maxresdefault.jpg" alt="Trailer Drive to Degree" width="600">
   </a>
 </p>
 
@@ -39,7 +37,7 @@
 
 Gim ini sudah siap dimainkan di PC (Windows). Unduh *file* matangnya melalui tautan di bawah ini:
 
-[![Download Game](https://img.shields.io/badge/Download_Playable_Build-Google_Drive-1DA1F2?style=for-the-badge&logo=google-drive)]([https://drive.google.com/drive/folders/1FWKlQuirsdtMiU5tgBYrenxR2WqXgXwL?usp=drive_link])
+[![Download Game](https://img.shields.io/badge/Download_Playable_Build-Google_Drive-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1FWKlQuirsdtMiU5tgBYrenxR2WqXgXwL?usp=drive_link)
 
 **Cara Bermain:**
 1. Unduh *file* `.zip` dari tautan di atas.
@@ -51,7 +49,7 @@ Gim ini sudah siap dimainkan di PC (Windows). Unduh *file* matangnya melalui tau
 ## 📄 Dokumen Desain Gim (GDD)
 Ingin tahu lebih dalam tentang arsitektur gim, mekanik, dan rancangan sistem *Logic* di balik Drive to Degree? Silakan baca dokumen resmi kami:
 
-🔗 **[Baca Game Design Document (GDD) Versi 1.0 di sini]([https://drive.google.com/file/d/1My6TWW7MWmHPfl_JzfUwpxAKpxtOsgvA/view?usp=drive_link])**
+🔗 **[Baca Game Design Document (GDD) Versi 1.0 di sini](https://drive.google.com/file/d/1My6TWW7MWmHPfl_JzfUwpxAKpxtOsgvA/view?usp=drive_link)**
 
 ---
 
